@@ -2,9 +2,11 @@
 
 Construya una aplicación en JavaFX donde se muestren todas las mascotas de una veterinnaria, dicha veterinaria ya cuenta con un backup de sus mascotas que se encuentra en archivos CSV o XML, posteriormente la veterinaria necesita generar nuevos backups en dichos formatos.
 
-//img
+![App](img/app.PNG)
 
 En este repositorio se encuentra una aplicación inicial con el MVC previamente creado, pero deberá implementar las funcionalidades requeridas a continuación:
+
+![App](img/uml.png)
 
 1. Esta aplicación permite la carga de un reporte previo de mascotas en formato CSV o XML según sea especificado por un boton en pantalla, este reporte debera ser guardado en la carpeta ```res``` de este proyecto. Luego de haber cargado el reporte deberá mostrar una alerta en pantalla confirmando la carga satdisfactoria del archivo. Para lo cual debe hacer uso de un componente llamado ```FileChooser```, puede utilizar el siguiente fragmento para el uso de este componente:
   ```java
