@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivoMascota>
+  <mascota>
+    <nombre>Dollar</nombre>
+    <edad>22</edad>
+    <raza>Labrador Retriever</raza>
+  </mascota>
+  <mascota>
+    <nombre>Dixie</nombre>
+    <edad>18</edad>
+    <raza>Poodle</raza>
+  </mascota>
+  <mascota>
+    <nombre>Wookie</nombre>
+    <edad>56</edad>
+    <raza>Boxer</raza>
+  </mascota>
+  <mascota>
+    <nombre>Katrina</nombre>
+    <edad>48</edad>
+    <raza>Siberian Husky</raza>
+  </mascota>
+  <mascota>
+    <nombre>Herb</nombre>
+    <edad>34</edad>
+    <raza>Shih Tzu</raza>
+  </mascota>
+  <mascota>
+    <nombre>Wacky</nombre>
+    <edad>45</edad>
+    <raza>Pomeranian</raza>
+  </mascota>
+  <mascota>
+    <nombre>Wolf</nombre>
+    <edad>14</edad>
+    <raza>Pug</raza>
+  </mascota>
+  <mascota>
+    <nombre>Einstein</nombre>
+    <edad>57</edad>
+    <raza>Chihuahua</raza>
+  </mascota>
+  <mascota>
+    <nombre>Mozzarella</nombre>
+    <edad>32</edad>
+    <raza>Akita Inu</raza>
+  </mascota>
+  <mascota>
+    <nombre>Bingo</nombre>
+    <edad>6</edad>
+    <raza>French Bulldog</raza>
+  </mascota>
+  <mascota>
+    <nombre>Sabrina</nombre>
+    <edad>24</edad>
+    <raza>Collie</raza>
+  </mascota>
+  <mascota>
+    <nombre>Oracle</nombre>
+    <edad>29</edad>
+    <raza>Bullmastiff</raza>
+  </mascota>
+  <mascota>
+    <nombre>Mustard</nombre>
+    <edad>54</edad>
+    <raza>Shiba Inu</raza>
+  </mascota>
+  <mascota>
+    <nombre>Shaggy</nombre>
+    <edad>55</edad>
+    <raza>German Shepherd</raza>
+  </mascota>
+  <mascota>
+    <nombre>Spock</nombre>
+    <edad>31</edad>
+    <raza>Bichon Frise</raza>
+  </mascota>
+</archivoMascota>
