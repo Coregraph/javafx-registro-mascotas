@@ -1,6 +1,6 @@
 # Aplicación de Registro de Mascotas
 
-Construya una aplicación en JavaFX donde se muestren todas las mascotas de una veterinnaria, dicha veterinaria ya cuenta con un backup de sus mascotas que se encuentra en archivos CSV o XML, posteriormente la veterinaria necesita generar nuevos backups en dichos formatos.
+Construya una aplicación en JavaFX donde se muestren todas las mascotas de una veterinaria, dicha veterinaria ya cuenta con un backup de sus mascotas que se encuentra en archivos CSV o XML, posteriormente la veterinaria necesita generar nuevos backups en dichos formatos.
 
 ![App](img/app.PNG)
 
@@ -19,7 +19,7 @@ En este repositorio se encuentra una aplicación inicial con el MVC previamente 
   File selectedFile = fileChooser.showOpenDialog(this.loadBtn.getScene().getWindow());
   ```
 
-2. Se podran agregar mascotas desde la pantalla utilizando una serie de textFields y un Boton.
+2. Se podran agregar mascotas desde la pantalla utilizando una serie de TextFields, Botones y un ToggleButton.
 
 3. Luego de agregar una nueva mascota o cargar las mascotas via archivo se debe desplegar la información de cada mascota en el textView de la pantalla (El modelo/Mascota cuenta con un sobrecarga de toString que puede utilizar para este proposito). Si desea crear Strings complejos o de gran tamaño puede usar la clase ```StringBuilder```, a continuación se muestra el uso de esta clase:
   ```java
